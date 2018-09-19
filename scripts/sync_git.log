@@ -1,6 +1,0 @@
-[master 98bc0fa] crontab backup Thu Sep 20 00:15:00 JST 2018
- 1 file changed, 0 insertions(+), 0 deletions(-)
- mode change 100644 => 100755 scripts/sync_git.sh
-[master c215bad] crontab backup Thu Sep 20 00:16:00 JST 2018
- 2 files changed, 3 insertions(+)
- create mode 100644 .gitignore.swp
