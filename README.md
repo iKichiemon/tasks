@@ -34,7 +34,7 @@ $ vim ~/.taskbook.json
 
 ```
 $ crontab -e
-// 00 * * * * ~/repository/github.com/iKichiemon/tasks/scripts/sync_git.sh
+// * * * * * ~/repository/github.com/iKichiemon/tasks/scripts/sync_git.sh >> ~/repository/github.com/iKichiemon/tasks/scripts/sync_git.log
 ```
 
 
