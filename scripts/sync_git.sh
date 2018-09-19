@@ -1,11 +1,9 @@
 #!/bin/bash
 
-cd ~/repository/github.com/iKichiemon/tasks
-
-git add -A
+cd ~/repository/github.com/iKichiemon/tasks && git add -A
 
 # Git: add and commit changes
-git commit -a -m "crontab backup `date`"
+cd ~/repository/github.com/iKichiemon/tasks && git commit -a -m "crontab backup `date`"
 
 # send data to Git server
-git push origin master
+cd ~/repository/github.com/iKichiemon/tasks && git push origin master

@@ -32,7 +32,10 @@ $ vim ~/.taskbook.json
 
 ## Setup SyncCron
 
-
+```
+$ crontab -e
+// 00 * * * * ~/repository/github.com/iKichiemon/tasks/scripts/sync_git.sh
+```
 
 
 
