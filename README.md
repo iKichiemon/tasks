@@ -24,7 +24,7 @@ $ vim ~/.taskbook.json
 
 ```
 {
-    "taskbookDirectory": "~/repository/github.com/iKichiemon/tasks",
+    "taskbookDirectory": "/Users/username/repository/github.com/iKichiemon/tasks",
     "displayCompleteTasks": true,
     "displayProgressOverview": true
 }
